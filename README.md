@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on AI ML and Data Science.<br>👥 I'm looking to collaborate on Web Development.<br>🤝 I'm looking for help with Lerning Somenthing about Data Science.<br>🌱 I'm currently learning Deep Learning.<br>⚡ I am Freestyle Player in Tech 😅
+🔭 I'm currently working on AI ML and Data Science.<br>👥 I'm looking to collaborate on Web Development.<br>🤝 I'm looking for help with Lerning Somenthing about Data Science.<br>🌱 I'm currently learning Deep Learning.<br>😅 I am Freestyle Player in Tech 
 
 
 ## 🌐 Socials:
