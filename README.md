@@ -1,6 +1,6 @@
 # Vishwajeet Singh
-
-![Profile Views](https://komarev.com/ghpvc/?username=VishuRG&color=brightgreen&style=flat-square&label=Profile+Views)
+<!--
+![Profile Views](https://komarev.com/ghpvc/?username=VishuRG&color=brightgreen&style=flat-square&label=Profile+Views) -->
 
 > Front End Web Developer — A passionate developer who likes to build amazing stuff..
 
